@@ -32,6 +32,6 @@ def dfs_recursive(graph, start, visited=None):
             dfs_recursive(graph, neighbor, visited)
 
 if __name__ == "__main__":
-    # dfs(graph, 0)  # 从节点0开始遍历
+    # dfs(graph, 0)  
     # print("--------------------------------")
-    dfs_recursive(graph, 0)  # 从节点0开始遍历
+    dfs_recursive(graph, 0) 
