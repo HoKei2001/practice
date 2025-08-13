@@ -1,4 +1,4 @@
-Defining the SOLID principles in layman's terms (based on this video alone):
+Defining the SOLID principles in layman's terms (based on this video https://www.youtube.com/watch?v=0mcP8ZpUR38):
 
 1. Single Responsibility
     Make things (classes, functions, etc.) responsible for fulfilling one type of role.
