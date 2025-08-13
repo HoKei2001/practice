@@ -2,4 +2,4 @@
 
 from .graph import Graph, TreeNode, ListNode
 
-__all__ = ['Graph', 'TreeNode', 'ListNode']
+__all__ = ["Graph", "TreeNode", "ListNode"]
