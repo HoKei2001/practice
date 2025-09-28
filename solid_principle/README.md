@@ -5,6 +5,7 @@ Defining the SOLID principles in layman's terms (based on this video https://www
         e.g. Refactor code responsibilities into separate classes.
 
 2. Open/Closed
+    Open for extension but closed for modification.
     Be able to add new functionality to existing code easily without modifying existing code.
         e.g. Use abstract classes. These can define what subclasses will require and strengthen Principle 1. by separating code duties.
 
